@@ -10,5 +10,7 @@ Les données pour tous les produits, ou une sélection de produits, peuvent êtr
 ### Lien
 https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv
 Le fichier utilise l'encodage Unicode UTF-8. Le caractère de séparation des champs est <tab> (tabulation).
+  
+![image](https://user-images.githubusercontent.com/37068938/116998722-ef279d00-acde-11eb-8cda-bc4c34b048fa.png)
 
 ![image](https://user-images.githubusercontent.com/37068938/116997848-9f94a180-acdd-11eb-847e-361c2bd2a9cc.png)
