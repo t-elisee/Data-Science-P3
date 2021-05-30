@@ -3,7 +3,7 @@
 > NB: This project is the 3rd of a series of 7 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 
 
