@@ -1,4 +1,15 @@
 ### Data-Science-P3
+
+> NB: This project is the 3rd of a series of 7 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+___
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/37068938/114171530-b04b3500-9934-11eb-8781-1331446019f7.png)
 ![image](https://user-images.githubusercontent.com/37068938/116997953-cce14f80-acdd-11eb-9e77-1423b171c6a9.png)
 
